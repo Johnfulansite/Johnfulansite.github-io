@@ -2442,7 +2442,7 @@ hr {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #5c6683;
+  background: #ff34b9;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2491,4 +2491,11 @@ hr {
 }
 .sub-menu .menu-item {
   display: inline-block;
+}
+body {
+  background: url("images/background.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
 }
