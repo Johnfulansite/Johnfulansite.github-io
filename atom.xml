@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>王罴虎的杂物堆</title>
+  
+  <subtitle>生死有命，谋事在人。</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-03-19T04:38:54.747Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>王罴虎</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>搭建博客踩得坑</title>
+    <link href="http://example.com/2023/03/12/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E8%B8%A9%E5%BE%97%E5%9D%91/"/>
+    <id>http://example.com/2023/03/12/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E8%B8%A9%E5%BE%97%E5%9D%91/</id>
+    <published>2023-03-12T09:46:15.000Z</published>
+    <updated>2023-03-19T04:38:54.747Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="使用hexo搭建博客踩的一些坑"><a href="#使用hexo搭建博客踩的一些坑" class="headerlink" title="使用hexo搭建博客踩的一些坑"></a>使用hexo搭建博客踩的一些坑</h1><p>记录在使用hexo搭建博客史遇到的一些问题。<br>&lt;—-more—-&gt;</p><h2 id="下载安装nodejs在配置环境变量时的错误"><a href="#下载安装nodejs在配置环境变量时的错误" class="headerlink" title="下载安装nodejs在配置环境变量时的错误"></a>下载安装nodejs在配置环境变量时的错误</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;使用hexo搭建博客踩的一些坑&quot;&gt;&lt;a href=&quot;#使用hexo搭建博客踩的一些坑&quot; class=&quot;headerlink&quot; title=&quot;使用hexo搭建博客踩的一些坑&quot;&gt;&lt;/a&gt;使用hexo搭建博客踩的一些坑&lt;/h1&gt;&lt;p&gt;记录在使用hexo搭建博客史遇到的一</summary>
+      
+    
+    
+    
+    <category term="IT技术" scheme="http://example.com/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+</feed>
