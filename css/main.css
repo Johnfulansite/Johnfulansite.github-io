@@ -1818,6 +1818,7 @@ pre code {
   font-weight: normal;
   margin: initial;
   overflow-wrap: break-word;
+  color: #fff;
 }
 .posts-expand .post-title-link {
   border-bottom: 0;
@@ -2045,6 +2046,7 @@ pre code {
 }
 .category-all-page .category-all-title {
   text-align: center;
+  color: #fff;
 }
 .category-all-page .category-all {
   margin-top: 20px;
@@ -2058,7 +2060,7 @@ pre code {
   margin: 5px 10px;
 }
 .category-all-page .category-list-count {
-  color: #bbb;
+  color: #fff;
 }
 .category-all-page .category-list-count::before {
   content: ' (';
@@ -2178,10 +2180,12 @@ ul.breadcrumb li:last-child {
 }
 .tag-cloud {
   text-align: center;
+  color: #fff;
 }
 .tag-cloud a {
   display: inline-block;
   margin: 10px;
+  color: #fff;
 }
 .tag-cloud-0 {
   border-bottom-color: #aaa;
@@ -2503,7 +2507,7 @@ hr {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #faff3d;
+  background: #6cff18;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
